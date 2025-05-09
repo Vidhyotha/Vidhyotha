@@ -1,19 +1,23 @@
+<!-- GitHub Profile README for Vidhyotha -->
+
+`````
                    -`                           
-                  .o+`                          
-                 `ooo/                          
-                `+oooo:                         User:       Vidhyotha Shetty
-               `+oooooo:                        Location:   Bangalore, India
-               -+oooooo+:                       Education:  B.Tech in EEE, Manipal Institute of Technology
-             `/:-:++oooo+:                      Languages:  Python, TypeScript, C++, HTML
-            `/++++/++++++/:                     GitHub:     https://github.com/Vidhyotha
-           `/++++++++++++++:                    Email:      vidhyotha@gmail.com
-          `/+++ooooooooooooo/`                  
-         ./ooosssso++osssssso+`                 
-        .oossssso-```
-       -osssssso.      :ssssssso.              
-      :osssssss/        osssso+++              
-     /ossssssss/        +ssssooo/-             
-   `/ossssso+/:-        -:/+osssso+-           
-  `+sso+:-`                 `.-/+oso:          
- `++:.                           `-/+/         
+                  .o+`                          User:       Vidhyotha
+                 `ooo/                          Location:   Bangalore, India
+                `+oooo:                         Education:  B.Tech in EEE, Manipal Institute of Technology
+               `+oooooo:                        Languages:  Python, TypeScript, C++, HTML
+               -+oooooo+:                       GitHub:     https://github.com/Vidhyotha
+             `/:-:++oooo+:                      Languages:  Python, Shell
+            `/++++/++++++/:                     Email:      vidhyotha@gmail.com
+           `/++++++++++++++:
+          `/+++ooooooooooooo/`
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
  .`                                 `
+`````
